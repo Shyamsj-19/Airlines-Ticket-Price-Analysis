@@ -16,7 +16,7 @@ Evaluate the competitive landscape to understand how pricing strategies vary acr
 Focus on specific air routes to assess how pricing varies based on destination, distance, and popularity.
 Identify routes with notable pricing dynamics and potential factors influencing these variations.
 
-Check out the project [here](https://github.com/Shyamsj-19/Airlines-Ticket-Price-Analysis/blob/master/India%20Airlines%20Ticket%20Price%20Exploratory%20Analysis.ipynb)
+Check out the project [here](https://github.com/heyitsabhijeet/Indian-Airlines-Ticket-Price-Analysis/blob/master/India%20Airlines%20Ticket%20Price%20Exploratory%20Analysis.ipynb)
 
 ## About the dataset
 
