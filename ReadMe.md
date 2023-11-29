@@ -16,7 +16,7 @@ Evaluate the competitive landscape to understand how pricing strategies vary acr
 Focus on specific air routes to assess how pricing varies based on destination, distance, and popularity.
 Identify routes with notable pricing dynamics and potential factors influencing these variations.
 
-Check out the project [here]()
+Check out the project [here](https://github.com/Shyamsj-19/Airlines-Ticket-Price-Analysis/blob/master/India%20Airlines%20Ticket%20Price%20Exploratory%20Analysis.ipynb)
 
 ## About the dataset
 
@@ -39,7 +39,7 @@ The various features of the cleaned dataset are explained below:
 
 ## Power BI Visualization Dashboard
 
-Click on [Power BI Dashboard]() to view the dashboard
+Click on [Power BI Dashboard](https://github.com/Shyamsj-19/Airlines-Ticket-Price-Analysis/blob/master/Indian%20Airline%20Ticket%20Prices%20Dashboard.pdf) to view the dashboard
 
 Using Power BI Dashboard one can quickly get to know ticket prices between different cities flying with different airlines in different classes along with flight duration
 
